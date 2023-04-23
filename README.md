@@ -1,4 +1,4 @@
-# The Simple Multiscreen App 
+# The Simple MultiScreen App 
 [android studio](https://developer.android.com/studio?gclsrc=ds&gclsrc=ds "android studio home")
 
 
